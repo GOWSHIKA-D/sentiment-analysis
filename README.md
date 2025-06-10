@@ -3,7 +3,8 @@
 This project is a simple and interactive **Sentiment Analysis** tool built using **Python, Machine Learning (Logistic Regression)** and **Streamlit**. It classifies movie reviews as either **Positive** or **Negative** based on the text input by the user.
 
 ---
-
+ Local URL: http://localhost:8501
+  Network URL: http://192.168.84.80:8501
 ## 📌 Features
 
 - 🌐 User-friendly web interface using **Streamlit**
